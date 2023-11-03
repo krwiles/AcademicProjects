@@ -1,0 +1,6 @@
+﻿  main.cpp
+  roster.cpp
+G:\School\WGU\C867 Project\Project\roster.cpp(180,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  student.cpp
+  Generating Code...
+  Project.vcxproj -> G:\School\WGU\C867 Project\x64\Debug\Project.exe

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"krwiles.productinventory","l":"controller"},{"m":"krwiles.productinventory","l":"krwiles.productinventory"},{"m":"krwiles.productinventory","l":"model"}];updateSearchResults();
